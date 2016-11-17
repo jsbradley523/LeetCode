@@ -6,6 +6,7 @@ import java.util.Map;
 public class TwoSum {
 	
 	/**
+	 * https://leetcode.com/problems/two-sum/
 	 * Finds the indices of two numbers in nums that add up to the target.
 	 * @return A int array containing the indices in the nums array of two values that add up to target.
 	 * The Lower index will come first in the array.

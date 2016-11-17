@@ -3,6 +3,7 @@ package jamison.bradley.leet.code.questions.algorithms;
 
 public class LongestSubstringWithoutRepeatingCharacters {
 	/**
+	 * https://leetcode.com/problems/longest-substring-without-repeating-characters/
 	 * Finds the length of the longest substring without repeating characters in the provided String.
 	 * @return The length of the longest substring.
 	 */

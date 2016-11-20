@@ -10,4 +10,5 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PalindromeNumber.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](/src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedArray.java) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveElement.java) |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ImplementStrStr.java |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidSudoku.java) |

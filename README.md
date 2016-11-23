@@ -15,4 +15,5 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveElement.java) |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ImplementStrStr.java) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchInRotatedSortedArray.java) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchInsertPosition.java) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidSudoku.java) |

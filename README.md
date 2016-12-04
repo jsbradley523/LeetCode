@@ -24,4 +24,5 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchInsertPosition.java) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidSudoku.java) |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SudokuSolver.java) |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LengthOfLastWord.java) | 
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LengthOfLastWord.java) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/AddBinary.java) | 

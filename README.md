@@ -26,4 +26,5 @@
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SudokuSolver.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SpiralMatrix.java) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LengthOfLastWord.java) |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SpiralMatrix2.java) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/AddBinary.java) | 

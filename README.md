@@ -29,3 +29,4 @@
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SpiralMatrix2.java) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/AddBinary.java) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SetMatrixZeroes.java) | 
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchA2DMatrix.java) |

@@ -35,3 +35,4 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/AddBinary.java) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SetMatrixZeroes.java) | 
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchA2DMatrix.java) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedList.java) |

@@ -41,4 +41,5 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchA2DMatrix.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SortColors.java) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedList.java) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PartitionList.java) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeSortedArray.java) |

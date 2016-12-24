@@ -27,6 +27,7 @@
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SudokuSolver.java) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/CountAndSay.java) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/FirstMissingPositive.java) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/TrappingRainWater.java) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/JumpGame2.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateImage.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SpiralMatrix.java) |

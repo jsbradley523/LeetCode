@@ -48,3 +48,4 @@
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PartitionList.java) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeSortedArray.java) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SameTree.java) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MaximumDepthOfBinaryTree.java) |

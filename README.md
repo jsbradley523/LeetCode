@@ -39,6 +39,7 @@
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinimumPathSum.java) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PlusOne.java) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/AddBinary.java) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ClimbingStairs.java) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SetMatrixZeroes.java) | 
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchA2DMatrix.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SortColors.java) |

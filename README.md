@@ -30,6 +30,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/TrappingRainWater.java) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/JumpGame2.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateImage.java) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/anagrams/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/GroupAnagrams.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SpiralMatrix.java) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/JumpGame.java) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/InsertInterval.java) |

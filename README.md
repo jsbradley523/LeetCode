@@ -16,6 +16,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LetterCombinationsOfAPhoneNumber.java) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveNthNodeFromEndOfList.java) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeTwoSortedLists.java) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/GenerateParentheses.java) |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeKSortedLists.java) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SwapNodesInPairs.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](/src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedArray.java) |

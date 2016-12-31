@@ -15,6 +15,7 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LongestCommonPrefix.java) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LetterCombinationsOfAPhoneNumber.java) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveNthNodeFromEndOfList.java) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidParentheses.java) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeTwoSortedLists.java) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/GenerateParentheses.java) |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeKSortedLists.java) |

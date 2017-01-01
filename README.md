@@ -58,3 +58,4 @@
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BinaryTreeLevelOrderTraversal.java) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MaximumDepthOfBinaryTree.java) |
 | 107 | [Binary Tree Level Order Traversal 2](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BinaryTreeLevelOrderTraversal2.java) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinimumDepthOfBinaryTree.java) |

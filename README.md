@@ -47,6 +47,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SearchA2DMatrix.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SortColors.java) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinimumWindowSubstring.java) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/WordSearch.java) |
 | 80 | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedArray2.java) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedList2.java) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedList.java) |

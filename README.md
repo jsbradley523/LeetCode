@@ -4,7 +4,7 @@
 # Solutions
 
 ## Algorithms
-Solutions to algorithm challenges. All solutions are in Java.
+Solutions to algorithm questions. These types of questions make up the overwhelming majority of challenges on the site. All solutions where implemented in Java.
 
 | Number | Question | Solution |
 |--------|----------|----------|
@@ -81,3 +81,4 @@ Solutions to database questions. All solutions are MySQL and there aren't very m
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](./src/main/resources/database/EmployeesEarningMoreThanTheirManagers.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](./src/main/resources/database/DuplicateEmails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./src/main/resources/database/CustomersWhoNeverOrder.sql) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Solution](./src/main/resources/database/DepartmentHighestSalary.sql) |

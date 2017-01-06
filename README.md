@@ -2,6 +2,10 @@
 [My Profile](https://leetcode.com/jsbradley523/)
 
 # Solutions
+
+## Algorithms
+Solutions to algorithm challenges all solutions are implemented in Java.
+
 | Number | Question | Solution |
 |--------|----------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/TwoSum.java) |
@@ -67,3 +71,10 @@
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PascalsTriangle.java) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PascalsTriangle2.java) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BestTimeToBuyAndSellStock.java) |
+
+##Database
+Solutions to database questions all solutions are MySQL. There aren't very many of these types of questions to choose from.
+
+| Number | Question | Solution |
+|--------|----------|----------|
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./src/main/resources/database/CombineTwoTables.sql) |

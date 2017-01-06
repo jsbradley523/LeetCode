@@ -4,7 +4,7 @@
 # Solutions
 
 ## Algorithms
-Solutions to algorithm challenges all solutions are implemented in Java.
+Solutions to algorithm challenges. All solutions are in Java.
 
 | Number | Question | Solution |
 |--------|----------|----------|
@@ -73,10 +73,11 @@ Solutions to algorithm challenges all solutions are implemented in Java.
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BestTimeToBuyAndSellStock.java) |
 
 ##Database
-Solutions to database questions all solutions are MySQL. There aren't very many of these types of questions to choose from.
+Solutions to database questions. All solutions are MySQL and there aren't very many of these types of questions to choose from.
 
 | Number | Question | Solution |
 |--------|----------|----------|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./src/main/resources/database/CombineTwoTables.sql) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](./src/main/resources/database/EmployeesEarningMoreThanTheirManagers.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](./src/main/resources/database/DuplicateEmails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./src/main/resources/database/CustomersWhoNeverOrder.sql) |

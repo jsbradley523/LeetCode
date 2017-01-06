@@ -79,3 +79,4 @@ Solutions to database questions all solutions are MySQL. There aren't very many 
 |--------|----------|----------|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./src/main/resources/database/CombineTwoTables.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](./src/main/resources/database/DuplicateEmails.sql) |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./src/main/resources/database/CustomersWhoNeverOrder.sql) |

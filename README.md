@@ -17,6 +17,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/IntegerToRoman.java) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RomanToInteger.java) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LongestCommonPrefix.java) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ThreeSum.java) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LetterCombinationsOfAPhoneNumber.java) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveNthNodeFromEndOfList.java) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidParentheses.java) |

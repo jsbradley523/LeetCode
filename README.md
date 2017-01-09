@@ -75,6 +75,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/Triangle.java) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BestTimeToBuyAndSellStock.java) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidPalindrome.java) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SingleNumber.java) |
 
 ##Database
 Solutions to database questions. All solutions are MySQL and there aren't very many of these types of questions to choose from.

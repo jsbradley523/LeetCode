@@ -59,6 +59,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveDuplicatesFromSortedList.java) |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PartitionList.java) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MergeSortedArray.java) |
+| 92 | [Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ReverseLinkedList2.java) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BinaryTreeInorderTraversal.java) |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ValidateBinarySearchTree.java) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SameTree.java) |

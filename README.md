@@ -81,6 +81,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SingleNumber.java) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/InsertionSortList.java) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/EvaluateReversePolishNotation.java) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinStack.java) |
 
 ##Database
 Solutions to database questions. All solutions are MySQL and there aren't very many of these types of questions to choose from.

@@ -82,6 +82,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SumRootToLeafNumbers.java) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SingleNumber.java) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LinkedListCycle.java) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BinaryTreePreorderTraversal.java) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/InsertionSortList.java) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/EvaluateReversePolishNotation.java) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ReverseWordsInAString.java) |

@@ -44,6 +44,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/InsertInterval.java) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/LengthOfLastWord.java) |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/SpiralMatrix2.java) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateList.java) |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinimumPathSum.java) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PlusOne.java) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/AddBinary.java) |

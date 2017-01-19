@@ -88,6 +88,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ReverseWordsInAString.java) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinStack.java) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/FindPeakElement.java) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateArray.java) |
 
 ##Database
 Solutions to database questions. All solutions are MySQL and there aren't very many of these types of questions to choose from.

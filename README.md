@@ -90,6 +90,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinStack.java) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/FindPeakElement.java) |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/TwoSum2.java) |
+| 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/FactorialTrailingZeros.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateArray.java) |
 
 ##Database

@@ -92,6 +92,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/TwoSum2.java) |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ExcelSheetColumnTitle.java) |
 | 169 | [MajorityElement](https://leetcode.com/problems/majority-element/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MajorityElement.java) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ExcelSheetColumnNumber.java) |
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/FactorialTrailingZeros.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateArray.java) |
 

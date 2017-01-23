@@ -95,6 +95,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ExcelSheetColumnNumber.java) |
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/FactorialTrailingZeros.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RotateArray.java) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/HappyNumber.java) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ReverseLinkedList.java) |
 
 ##Database

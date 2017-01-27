@@ -69,6 +69,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BinaryTreeZigzagLevelOrderTraversal.java) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MaximumDepthOfBinaryTree.java) |
 | 107 | [Binary Tree Level Order Traversal 2](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BinaryTreeLevelOrderTraversal2.java) |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ConvertSortedArrayToBinarySearchTree.java) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/BalancedBinaryTree.java) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/MinimumDepthOfBinaryTree.java) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/PathSum.java) |

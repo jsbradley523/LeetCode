@@ -107,6 +107,7 @@ Solutions to algorithm questions. These types of questions make up the overwhelm
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/RemoveLinkedListElement.java) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ReverseLinkedList.java) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ContainsDuplicate.java) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./src/main/java/jamison/bradley/leet/code/questions/algorithms/ContainsDuplicate2.java) |
 
 ##Database
 Solutions to database questions. All solutions are MySQL and there aren't very many of these types of questions to choose from.
